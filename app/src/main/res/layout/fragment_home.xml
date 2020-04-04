@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:layout_marginTop="50dp"
+        android:text="This feature is especially designed for kids up to age of 4. This feature will promote interactive learning through 3D animation characters and sounds in the most efficient way possible."
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btn_unity_3"
+        android:layout_width="320dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/rounded_btn"
+        android:padding="25dp"
+        android:text="Alphabets, Solar System and Rhymes " />
+
+</LinearLayout>

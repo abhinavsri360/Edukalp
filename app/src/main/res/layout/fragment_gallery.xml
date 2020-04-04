@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:layout_marginTop="30dp"
+        android:text="Students, especially below the age of 10 would be able to practice multiplication tables virtually with ease. Similar AR-VR based applications can be developed for addition, subtraction and division operations."
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/rounded_btn1"
+        android:text="Mathematics Tables Practice"
+        android:padding="25dp"
+        android:id="@+id/btn_unity_1"/>
+
+</LinearLayout>

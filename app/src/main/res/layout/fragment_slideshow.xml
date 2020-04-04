@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:layout_marginTop="10dp"
+        android:text="Students would be to learn periodic table in the fun way through some visual concepts and facts about each element. The various periodic trends and facts would be taught in the most simplest way possible.
+We would be using Google VR SDK to present the table in virtual reality."
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_btn2"
+        android:text="Chemistry Revision"
+        android:padding="25dp"
+        android:id="@+id/btn_unity_2"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="25dp"
+                android:layout_marginTop="10dp"
+                android:text="Students would be able to translate their spoken phrases into multiple languages, thus helping them to learn foreign languages' basics. We would be using Microsoft Azure API to fulfill the mentioned feature."
+                android:textSize="25sp"
+                android:textStyle="bold"/>
+
+            <Button
+                android:layout_width="320dp"
+                android:layout_height="130dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/rounded_btn5"
+                android:text="Speech Recognition and Translator"
+                android:padding="25dp"
+                android:id="@+id/btn_unity_5"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

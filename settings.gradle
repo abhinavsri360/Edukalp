@@ -1,0 +1,2 @@
+include ':app', ':unityplugin'
+rootProject.name='Edukalp'

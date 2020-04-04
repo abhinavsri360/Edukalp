@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141825700794",
+    "firebase_url": "https://edukalp-c03b9.firebaseio.com",
+    "project_id": "edukalp-c03b9",
+    "storage_bucket": "edukalp-c03b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141825700794:android:8659e1644d8501a3ade383",
+        "android_client_info": {
+          "package_name": "com.example.edukalp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141825700794-d9ti6clkmfcbqu0fqioo6kv6tf0l96r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edukalp",
+            "certificate_hash": "f7df0de4b2f4be1706737783ccffe73a08901304"
+          }
+        },
+        {
+          "client_id": "141825700794-hgld40p7hju0t8lduijiiudl9q0vqgps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEwx9FtUMo3s8ftJ8VVUPWBCOFcWl9qD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141825700794-eulfav3vn6cahk9v524kc7crsubogcur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
